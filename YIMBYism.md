@@ -5,7 +5,7 @@ title: "YIMBYism"
 
 "Yes in my backyard"
 
-Some YIMBYs support a [Land Value Tax](./Land%20Value%20Tax.md.md).
+Some YIMBYs support a [Land Value Tax](./Land%20Value%20Tax.md).
 
 * [TheOmniZaddy and Rowan Fornow discuss how the 'Abundance' movement has successfully influenced elite persuasion through Substack newsletters rather than traditional protests.](https://x.com/TheOmniZaddy/status/2021418566407553518)
 * [The NY Times Editorial Board highlights how a severe mismatch between housing supply and demand has caused home prices to soar, arguing that building more homes is essential to restoring affordability and economic mobility.](https://www.instapaper.com/read/2013037938)
@@ -19,7 +19,7 @@ Some YIMBYs support a [Land Value Tax](./Land%20Value%20Tax.md.md).
 - Only [2% of housing stock is new construction](https://x.com/maxdubler/status/1827413587847176623)
 
 ## ADUs
-Accessory dwelling units are sometimes called Granny Flats. Basically they are a guest house you can put on your property by-right. This increases your property value and that can disincentive building them. Under a regime with a [Land Value Tax](./Land%20Value%20Tax.md.md) that wouldn't be an issue.
+Accessory dwelling units are sometimes called Granny Flats. Basically they are a guest house you can put on your property by-right. This increases your property value and that can disincentive building them. Under a regime with a [Land Value Tax](./Land%20Value%20Tax.md) that wouldn't be an issue.
 
 ADUs can house additional people including renting out cheap space to guests.
 

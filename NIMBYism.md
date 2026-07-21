@@ -5,7 +5,7 @@ title: "NIMBYism"
 
 Misanthropes who pull whatever they want to reject any new housing, affordable or market-rate, in their neighborhood.
 
-Many NIMBYs own property and use that as a reason to fight against new development. Of course, property owners [tend to live in expensive property](https://twitter.com/GeorgistSteve/status/1742079961333424299) and this generally leads them to become rent seekers of land, something disliked under a [Land Value Tax](./Land%20Value%20Tax.md.md).
+Many NIMBYs own property and use that as a reason to fight against new development. Of course, property owners [tend to live in expensive property](https://twitter.com/GeorgistSteve/status/1742079961333424299) and this generally leads them to become rent seekers of land, something disliked under a [Land Value Tax](./Land%20Value%20Tax.md).
 
 There is an inherent tension [between homeowners who want house prices to rise](https://t.co/Fbc4MfvFzE) and new buyers/renters.
 

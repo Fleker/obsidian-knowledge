@@ -3,7 +3,7 @@ layout: "default"
 title: "YIMBY Policy Wins"
 ---
 
-Examples of [YIMBYism](./YIMBYism.md.md) advocacy in the wild.
+Examples of [YIMBYism](./YIMBYism.md) advocacy in the wild.
 
 * [A Twitter exchange highlights contrasting viewpoints on YIMBY (Yes In My Backyard) movements, with one user claiming they authored strong displacement protections while another alleges they facilitate gentrification and displacement of affordable housing.](https://x.com/ArmandDoma/status/1992403587943837975)
 ## National

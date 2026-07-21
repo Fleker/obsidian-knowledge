@@ -3,7 +3,7 @@ layout: "default"
 title: "Amtrak"
 ---
 
-America Track, a public [Heavy Rail](./Heavy%20Rail.md.md) service that lines the country. When the railroads were nationalized in 1971, [many small lines shut down](https://x.com/ThunderWolf08/status/1809969965530796102).
+America Track, a public [Heavy Rail](./Heavy%20Rail.md) service that lines the country. When the railroads were nationalized in 1971, [many small lines shut down](https://x.com/ThunderWolf08/status/1809969965530796102).
 
 Amtrak usage [is increasing with more service](https://twitter.com/ThunderWolf08/status/1780959346115084695?t=eeaG2IZXuXDwao-Ze-Zc_g&s=19). And it's [setting ridership records](https://twitter.com/ThunderWolf08/status/1786408955138183550?t=gmRp-M1pAa3HGO_jMbVkkA&s=19). It reached [its busiest year](https://x.com/ThunderWolf08/status/1861009650419634303) in 2024.
 
