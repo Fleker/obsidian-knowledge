@@ -1,0 +1,35 @@
+---
+layout: "default"
+title: "Trump Tariffs"
+---
+
+* [High Point, NC, the furniture capital of the U.S., is paralyzed by economic uncertainty due to political instability and unpredictable policy changes, exemplified by a temporary tariff delay on upholstered furniture imports amid national security concerns.](https://x.com/jasonc_nc/status/2006924003210846381)
+- [A Cato Institute survey reveals that while 80% of Americans agree more manufacturing jobs would benefit the country, only 25% believe they would personally be better off working in a factory, with only 2% currently employed in manufacturing.](https://x.com/FrankLuntz/status/1911463710029488317)
+* [The provided text highlights a concern about a perceived societal shift towards accepting lower living standards and discouraging aspirations for future prosperity, referencing a 1979 speech by Ronald Reagan and a more recent call to 'detox' from abundance.](https://x.com/JimPethokoukis/status/1907841247823409453)
+* [Armand Domalewski highlights an article discussing how AI is impacting jobs, particularly challenging the assumption that 'made-up jobs' are primarily held by women, with the article suggesting the discussion is more about sex and the economy than just DOGE.](https://x.com/ArmandDoma/status/1907952620159058284)
+	* [Armand Domalewski retweeted a post from Invercavity criticizing the American economy as built on 'fake, overly credentialized, and overly financialized' jobs.](https://x.com/ArmandDoma/status/1907947975919415720)
+* [A Peterson Institute study found that Obama's tire tariffs increased costs for American consumers and led to job losses, with China retaliating with penalties on U.S. chicken products.](https://x.com/ArmandDoma/status/1908196493460463971)
+* [@agraybee and @CartoonsHateHer discuss how discussions around economic hardship, particularly regarding eggs, are being framed as a response to perceived male insecurity rooted in 1950s gender roles, suggesting a potential rollback of progress by emphasizing traditional masculinity.](https://x.com/agraybee/status/1909643096771396033)
+* [The provided text discusses the phenomenon of children from rural areas, particularly those who voted for Trump due to economic anxieties, pursuing higher education and careers in urban centers, leading to resentment from their parents who feel their children's successes are a rejection of their community.](https://x.com/NickyFrank30/status/1909707053536247922)
+* [Union households are less supportive of tariffs compared to non-union households, according to a survey by James Medlock (@jdcmedlock).](https://x.com/jdcmedlock/status/1909622219866878365)
+* [Armand Domalewski is reflecting on the historical impact of tariffs on domestic industry, particularly in the early United States, referencing a broader discussion about economic policy.](https://x.com/ArmandDoma/status/1909832220115869881) <span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Mike from PA</span> supports them and while <span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Austin Ahlman</span> isn't a fan of aggressive tariffs does tepidly support them in general.
+* [Rep. Joe McNamara is urging the governor to establish a free trade zone in Rhode Island leveraging the state's Royal Charter powers to combat tariffs.](https://x.com/antoniafarzan/status/1910050083103474156)
+* [Wisconsin ginseng farmers are facing financial hardship as 147% tariffs imposed during the Trump administration have significantly reduced exports to China and Hong Kong, impacting a major industry.](https://x.com/DanRShafer/status/1919437942000439459)
+* [A court ruling regarding Trump's use of the International Emergency Economic Powers Act to implement tariffs is being questioned, as similar actions by previous presidents (Bush/Regan) were not challenged.](https://x.com/JosephPolitano/status/1928167520264917081)
+* [Congressman Greg Casar critiques Trump's tariffs, highlighting potential exemptions and discussing Trump's corruption with Hasan Minhaj.](https://x.com/bigseb31213/status/1908240960754245639)
+* [Asmongold discusses how economic hardship, particularly in the Rust Belt, fuels support for Trump's tariffs among young men who feel disenfranchised and anticipate further economic decline.](https://x.com/i/bookmarks)
+* COSTCO [sues](https://x.com/CNLiberalism/status/1995658665777660182) seeking refunds
+* A 30-story housing project in North Virginia [was cancelled](https://x.com/jayparsons/status/1966603723699831074) due in part to steel costs and high interest rates
+* Kamala Harris observed in 2024 [how tariffs would increase inflation](https://x.com/jamesetta_w/status/1963997497375719931) 
+* Trolley problem [meme](https://x.com/TahraHoops/status/1963988220447985805) 
+* John Deere cites [tariffs](https://x.com/jamesetta_w/status/1960373656321761724) for plant layoffs
+* [US strawberry growers are investigating unfair trade practices by Mexican strawberry producers, potentially leading to tariffs due to differences in growing conditions based on annual growing seasons.](https://x.com/scottlincicome/status/2006737998621429872)
+* X-men are [considered non-humans](https://x.com/besttrousers/status/1955364229432873089) to avoid the tariff rate for dolls
+* Kamala Harris [correctly (it turns out) cites economists analysis](https://x.com/madampolitick/status/1910707136989974583) that tariffs would cost $4k/year
+* Most manufacturing workers think tariffs [will hurt their company](https://x.com/TheOmniZaddy/status/1910736064437748046) 
+* [GOP leaders offered tariff carve-outs and incentives to Rep. Don Bacon to secure his support for tariffs, demonstrating a political strategy involving economic inducements. ](https://x.com/scottlincicome/status/2021951288125313086)
+* [Constans observes that Trump's policies are negatively impacting US farms, potentially shifting political allegiances and weakening Republican support within the agricultural sector.](https://x.com/constans/status/2024535389877256646)
+* [Aaron Rupar reports Trump stating he is allowed to destroy the country, highlighting concerning rhetoric regarding national sovereignty and potential instability.](https://x.com/atrupar/status/2024916151071825954)
+* [Phil Magness clarifies that a "balance of payments deficit" in 1971 referred to a draw on foreign currency reserves under the Bretton Woods system, distinct from trade or current account deficits, and argues that Trump's tariffs are illegally redefining the term.](https://x.com/PhilWMagness/status/2025664144205041695)
+* [Illinois soybean farmers welcome federal USDA aid to offset trade dispute losses but fear long-term damage to critical international export markets like China.](https://www.instapaper.com/read/1984546812)
+* [New Liberals sarcastically highlights the basic economic reality that tariffs increase costs after the White House reduces agricultural tariffs to help farmers.](https://x.com/CNLiberalism/status/2061778550831624515)
