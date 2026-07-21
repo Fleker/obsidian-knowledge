@@ -4,9 +4,9 @@ title: "Welcome"
 ---
 
 <div class="welcome-hero" style="padding: 40px 20px; text-align: center; background: linear-gradient(135deg, var(--badge-bg) 0%, transparent 100%); border-radius: 12px; margin-bottom: 40px; border: 1px solid var(--badge-border);">
-  <h2 style="font-size: 2.0rem; margin-top: 0; color: var(--primary-color);">🌿 Explore My Public Notes</h2>
+  <h2 style="font-size: 2.0rem; margin-top: 0; color: var(--primary-color);">🌿 {{ site.title }}</h2>
   <p style="font-size: 1.1rem; opacity: 0.9; max-width: 600px; margin: 15px auto 0;">
-    Welcome to my public digital garden! This website is a dynamic, searchable compilation of public notes synced directly from my private Obsidian vault using the Git Selective Publisher.
+    Welcome to my public digital garden! This website is a dynamic, searchable compilation of public notes synced directly from my private Obsidian vault using the Publish on GitHub plugin.
   </p>
 </div>
 
@@ -36,7 +36,7 @@ title: "Welcome"
 ### 🛠️ Publishing Your Own Notes
 
 Want to start sharing selective files from your Obsidian vault?
-1. Open the **Git Selective Publisher** settings inside Obsidian.
-2. Configure your publish tag (e.g. `#public`), repository path, and GitHub remote URL.
-3. Tag any note in your vault with your publish tag (inline or in frontmatter).
+1. Open the **Publish on GitHub** settings inside Obsidian.
+2. Configure your publish tag (e.g. `{{ site.publish_tag }}`), repository path, and GitHub remote URL.
+3. Tag any note in your vault with your publish tag `{{ site.publish_tag }}` (inline or in frontmatter).
 4. Click the ribbon icon or run `Publish Public Notes` from the command palette. The plugin converts wikilinks and pushes automatically!
