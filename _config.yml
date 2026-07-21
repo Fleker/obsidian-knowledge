@@ -2,6 +2,7 @@ title: "Knowledge"
 subtitle: "Knowledge"
 description: "A digital garden compiled directly from my Obsidian vault."
 github_repo: "fleker/obsidian-knowledge"
+publish_tag: "#public"
 markdown: kramdown
 kramdown:
   input: GFM
