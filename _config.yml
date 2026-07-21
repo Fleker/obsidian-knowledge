@@ -1,0 +1,14 @@
+title: "Knowledge"
+subtitle: "Knowledge"
+description: "A digital garden compiled directly from my Obsidian vault."
+github_repo: "fleker/obsidian-knowledge"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .github/
