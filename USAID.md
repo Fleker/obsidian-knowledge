@@ -52,7 +52,7 @@ In February 2025, Trump & DOGE went through and dismantled it.
 
 ## Good Things
 - [New HIV infections in sub-Saharan Africa have plummeted](https://x.com/yhdistyminen/status/1886839440720716170)
-- Chair Wicker calls it [the equivalent of](https://x.com/alanhe/status/1886533518273994955) China's <span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Belt and Road Initiative</span>
+- Chair Wicker calls it [the equivalent of](https://x.com/alanhe/status/1886533518273994955) China's [Belt and Road Initiative](./Belt%20and%20Road%20Initiative.md)
 > - "We were on the verge of ending HIV, TB, and malaria. That has all ended with this pause. It is a gift to our enemies and competitors."  https://x.com/besttrousers/status/1886599561394708492
 - Help reduce [outbursts of violence](https://www.nytimes.com/2025/02/18/climate/usaid-climate-social-unrest-terrorism.html)
 - Demographic & Health Surveys [shut down](https://x.com/ThomasDFish/status/1895026315423784976)
