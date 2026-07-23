@@ -9,6 +9,8 @@ This is how we get power from one place to another.
 - Champlain Hudson Power Express cable-laying boat [brings clean energy](https://x.com/PEWilliams_/status/1964757329146155056) to NYC from Canada
 ## CITAP
 The federal program [**Coordinated Interagency Transmission Authorizations and Permits Program**](https://www.energy.gov/gdo/coordinated-interagency-transmission-authorizations-and-permits-program) aims to cut down on permit needs through an online portal allowing for accelerated environmental reviews.
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMTE0NjM4NDMsMzM1MTIzMzM1XX0=
 -->

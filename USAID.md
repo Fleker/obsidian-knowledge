@@ -39,6 +39,7 @@ In February 2025, Trump & DOGE went through and dismantled it.
 - In 2 decades it [saved 92M lives](https://x.com/TrueSlazac/status/1940531181189321207) while the cuts will cost 14M lives
 - Similarly, RFK Jr [has cut funding to Gavi](https://x.com/kimmaicutler/status/1937940519163994119), which has prevented 17M deaths through vaccine access
 * [A Lancet study reported by CNN projects that global aid cuts following the dismantling of USAID could result in 9.4 million additional deaths by 2030.](https://www.instapaper.com/read/1983096361)
+* [Following sudden cuts to vital US foreign aid programs, Saloni Dattani of Scientific Discovery pledged to donate to effective charities to help mitigate the loss of global health funding.](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just)
 
 ### Ongoing Political Strife
 - White House [fires USAID Inspector General](https://x.com/jonfavs/status/1889464291184746961) after his report details the consequences of defunding
@@ -70,25 +71,9 @@ In February 2025, Trump & DOGE went through and dismantled it.
 - China is trying to [gain influence](https://x.com/KareemRifai/status/1889083306274169093)
 - Chris Murphy [remarks on its destruction](https://x.com/ChrisMurphyCT/status/1885715312185614505) and why that's bad
 
-## Horseshoe Theory
-
-* [User Hatchco expresses satisfaction with the US cutting international aid and a perceived step back in foreign policy, aligning with a sentiment of the US slowly withdrawing internally.](https://x.com/SJWheeljack/status/2000780911990677532)
-* [Zimbabwe has withdrawn from talks on a $367 million health funding agreement with the U.S. due to concerns over data sovereignty and the asymmetrical sharing of sensitive biological resources.](https://www.instapaper.com/read/1986300485)
-* [Joseph Guarino highlights that dismantling USAID is a shared policy goal of both the conservative Project 2025 and the Democratic Socialists of America (DSA) platform.](https://x.com/joeyjguarino/status/2058626810833678379)
-
-
-* [Nathan (@naaycoqui) criticizes political commentator HasanAbi for failing to condemn Donald Trump's dismantling of USAID, highlighting the contradiction of wanting the humanitarian aid agency abolished.](https://x.com/naaycoqui/status/2058588850520302049)
-        * [Kareem Rifai criticizes streamer HasanAbi for suggesting he would support USAID cuts if they weren't enacted by Trump, while highlighting Hasan's controversial trip to Havana.](https://x.com/KareemRifai/status/2058693728773238883)
-
-
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1OTUzOTksLTc5MTg5OTExNywtMTA5ND
 g0MzQ2Myw0NTMwNzAzNTEsLTExNTU1MDIwNzMsMTM2NjM3NTYx
 MCwxOTc2MTU0MjU0LDUyMjY0MzYwMSw4OTMwMDgyOTVdfQ==
--->
-
-https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU3NTM5NzldfQ==
 -->
