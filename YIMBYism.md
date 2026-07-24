@@ -5,7 +5,7 @@ title: "YIMBYism"
 
 "Yes in my backyard"
 
-Some YIMBYs support a [Land Value Tax](./Land%20Value%20Tax.md).
+Some YIMBYs support a [Land Value Tax](./Land%20Value%20Tax.html).
 
 * [TheOmniZaddy and Rowan Fornow discuss how the 'Abundance' movement has successfully influenced elite persuasion through Substack newsletters rather than traditional protests.](https://x.com/TheOmniZaddy/status/2021418566407553518)
 * [The NY Times Editorial Board highlights how a severe mismatch between housing supply and demand has caused home prices to soar, arguing that building more homes is essential to restoring affordability and economic mobility.](https://www.instapaper.com/read/2013037938)
@@ -19,7 +19,7 @@ Some YIMBYs support a [Land Value Tax](./Land%20Value%20Tax.md).
 - Only [2% of housing stock is new construction](https://x.com/maxdubler/status/1827413587847176623)
 
 ## ADUs
-Accessory dwelling units are sometimes called Granny Flats. Basically they are a guest house you can put on your property by-right. This increases your property value and that can disincentive building them. Under a regime with a [Land Value Tax](./Land%20Value%20Tax.md) that wouldn't be an issue.
+Accessory dwelling units are sometimes called Granny Flats. Basically they are a guest house you can put on your property by-right. This increases your property value and that can disincentive building them. Under a regime with a [Land Value Tax](./Land%20Value%20Tax.html) that wouldn't be an issue.
 
 ADUs can house additional people including renting out cheap space to guests.
 
@@ -145,3 +145,13 @@ OSwxMTk4MTM0NTMxLC0xNDg5MDMyOTc5LC02NzkxOTEwNjYsLT
 EyNzc0MTkwMjIsLTE1Nzk2NDQyNTQsLTE1NjI3Nzg2NjksLTE5
 ODg1NjIwNjldfQ==
 -->
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (4)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Zellnor%20Myrie.html" class="backlink-item">📄 Zellnor Myrie</a></li>
+    <li class="backlink-item-wrap"><a href="./YIMBY%20Policy%20Wins.html" class="backlink-item">📄 YIMBY Policy Wins</a></li>
+    <li class="backlink-item-wrap"><a href="./Vacancy%20Chains.html" class="backlink-item">📄 Vacancy Chains</a></li>
+    <li class="backlink-item-wrap"><a href="./Basement%20Apartments.html" class="backlink-item">📄 Basement Apartments</a></li>
+  </ul>
+</div>

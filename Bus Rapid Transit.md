@@ -13,3 +13,11 @@ A form of <span class="private-link" title="This page is private" style="color: 
 
 
 * [Albany's CDTA bus system has achieved a record-breaking ridership, exceeding pre-pandemic levels, demonstrating the effectiveness of Bus Rapid Transit (BRT) and highlighting its potential as a successful transit model.](https://x.com/aarmlovi/status/1971996602857673032)
+
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (1)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./California%20Coastal%20Commission.html" class="backlink-item">📄 California Coastal Commission</a></li>
+  </ul>
+</div>

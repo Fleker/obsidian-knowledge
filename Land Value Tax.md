@@ -21,3 +21,12 @@ Both <span class="private-link" title="This page is private" style="color: #94a3
 
 ## Detroit LVT
 Detroit is trying to do a LVT.
+
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (2)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./YIMBYism.html" class="backlink-item">📄 YIMBYism</a></li>
+    <li class="backlink-item-wrap"><a href="./NIMBYism.html" class="backlink-item">📄 NIMBYism</a></li>
+  </ul>
+</div>

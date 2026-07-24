@@ -16,3 +16,12 @@ The US Digital Service has transformed into this organization whose main goal se
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkwNjg1MDA5NSw0MzQyNzY3MTJdfQ==
 -->
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (3)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./USDA.html" class="backlink-item">📄 USDA</a></li>
+    <li class="backlink-item-wrap"><a href="./Soybean%20Innovation%20Lab.html" class="backlink-item">📄 Soybean Innovation Lab</a></li>
+    <li class="backlink-item-wrap"><a href="./National%20Institute%20of%20Health.html" class="backlink-item">📄 National Institute of Health</a></li>
+  </ul>
+</div>

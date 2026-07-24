@@ -12,7 +12,7 @@ Code changes:
 - Full windows
 - Should there be some water sensor akin to a smoke alarm?
 
-Legalizing basement dwellings is a [YIMBYism](./YIMBYism.md) concept.
+Legalizing basement dwellings is a [YIMBYism](./YIMBYism.html) concept.
 
 A 2019 study yielded some problematic results:
 

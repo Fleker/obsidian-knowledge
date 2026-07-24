@@ -14,3 +14,11 @@ title: "E-Bikes"
 ## Micromobility infrastructure
 - Adding an e-bike loading zone in front of Wegmans [improves traffic](https://x.com/JessieSingerNYC/status/1855332031653187877)
 * [TheOmniZaddy explains a policy change to prevent users from falsely claiming free ebikes by marking other bikes as broken, highlighting a problematic workaround exploiting a previous free ebike policy.](https://x.com/TheOmniZaddy/status/1990090523189657938)
+
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (1)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Golf%20Carts.html" class="backlink-item">📄 Golf Carts</a></li>
+  </ul>
+</div>

@@ -19,3 +19,11 @@ Chinese plan to ingratiate themselves in developing nations.
 
 ## US Equivalent
 * [The US has become the largest foreign direct investor in Africa, surpassing China in 2023 with $7.8 billion in investment compared to China's $4 billion, according to the China Africa Research Initiative.](https://x.com/Noahpinion/status/1987888032758833195)
+
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (1)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./USAID.html" class="backlink-item">📄 USAID</a></li>
+  </ul>
+</div>

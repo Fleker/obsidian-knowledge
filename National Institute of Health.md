@@ -11,7 +11,7 @@ title: "National Institute of Health"
 - Every dollar spent [leads to $2.46 of new economic activity](https://x.com/madamscientist/status/1888320898958008562)
 
 ## DOGE Cuts
-- [DOGE](./DOGE.md)-related cuts would have devastating effects [on UNC](https://x.com/admcrlsn/status/1888692574594146434)
+- [DOGE](./DOGE.html)-related cuts would have devastating effects [on UNC](https://x.com/admcrlsn/status/1888692574594146434)
 
 
 <!--stackedit_data:

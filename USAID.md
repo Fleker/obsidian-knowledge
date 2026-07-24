@@ -53,7 +53,7 @@ In February 2025, Trump & DOGE went through and dismantled it.
 
 ## Good Things
 - [New HIV infections in sub-Saharan Africa have plummeted](https://x.com/yhdistyminen/status/1886839440720716170)
-- Chair Wicker calls it [the equivalent of](https://x.com/alanhe/status/1886533518273994955) China's [Belt and Road Initiative](./Belt%20and%20Road%20Initiative.md)
+- Chair Wicker calls it [the equivalent of](https://x.com/alanhe/status/1886533518273994955) China's [Belt and Road Initiative](./Belt%20and%20Road%20Initiative.html)
 > - "We were on the verge of ending HIV, TB, and malaria. That has all ended with this pause. It is a gift to our enemies and competitors."  https://x.com/besttrousers/status/1886599561394708492
 - Help reduce [outbursts of violence](https://www.nytimes.com/2025/02/18/climate/usaid-climate-social-unrest-terrorism.html)
 - Demographic & Health Surveys [shut down](https://x.com/ThomasDFish/status/1895026315423784976)
@@ -77,3 +77,11 @@ eyJoaXN0b3J5IjpbLTE1OTUzOTksLTc5MTg5OTExNywtMTA5ND
 g0MzQ2Myw0NTMwNzAzNTEsLTExNTU1MDIwNzMsMTM2NjM3NTYx
 MCwxOTc2MTU0MjU0LDUyMjY0MzYwMSw4OTMwMDgyOTVdfQ==
 -->
+
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (1)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Soybean%20Innovation%20Lab.html" class="backlink-item">📄 Soybean Innovation Lab</a></li>
+  </ul>
+</div>

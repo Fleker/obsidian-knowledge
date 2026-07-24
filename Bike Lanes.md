@@ -46,3 +46,10 @@ In Bayside, bike lanes [are weirdly controversial](https://www.nytimes.com/2024/
 eyJoaXN0b3J5IjpbLTkxOTY3NTMxMiw5MTQ4MTY2OTIsLTE5ND
 IxODExNjQsLTQ3OTE3OTkyMF19
 -->
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (1)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Bicycling%20Safety.html" class="backlink-item">📄 Bicycling Safety</a></li>
+  </ul>
+</div>
