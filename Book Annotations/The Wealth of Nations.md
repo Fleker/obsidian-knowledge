@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Smith Adam. - Wealth of Nation"
+title: "The Wealth of Nations"
 ---
 
 Smith Adam. - Wealth of Nation

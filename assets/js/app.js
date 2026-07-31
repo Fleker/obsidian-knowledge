@@ -124,35 +124,86 @@ document.addEventListener('DOMContentLoaded', () => {
       searchInput.addEventListener('input', (e) => {
         const target = e.target;
         const query = (target && typeof target.value === 'string') ? target.value.toLowerCase().trim() : '';
-        const items = treeContainer.querySelectorAll('.tree-item');
 
-        items.forEach(item => {
-          const fileLink = item.querySelector('.tree-file-link');
-          const folderDiv = item.querySelector('.tree-folder');
+        const fileLinks = treeContainer.querySelectorAll('.tree-file-link');
+        const folderDivs = treeContainer.querySelectorAll('.tree-folder');
 
-          if (fileLink) {
-            const text = (fileLink.textContent || '').toLowerCase();
-            if (text.includes(query)) {
-              item.classList.remove('is-hidden');
-              // Expand all parent folders
-              let parent = item.parentElement;
-              while (parent && parent.classList.contains('tree-folder-contents')) {
-                parent.classList.remove('is-collapsed');
-                parent.classList.add('is-expanded');
-                parent = parent.parentElement ? parent.parentElement.parentElement : null;
-              }
-            } else {
-              item.classList.add('is-hidden');
-            }
-          }
-
-          if (folderDiv && query === '') {
-            // Restore collapsed folders if search cleared
-            const contents = item.querySelector('.tree-folder-contents');
+        if (query === '') {
+          // Reset all items to visible
+          treeContainer.querySelectorAll('.tree-item').forEach(item => {
+            item.classList.remove('is-hidden');
+          });
+          // Collapse folders not on current URL path
+          folderDivs.forEach(folderDiv => {
+            const folderLi = folderDiv.closest('.tree-item');
+            const contents = folderLi ? folderLi.querySelector('.tree-folder-contents') : null;
             const folderTitle = (folderDiv.textContent || '').trim();
             if (contents && !currentUrl.includes(folderTitle)) {
               contents.classList.remove('is-expanded');
               contents.classList.add('is-collapsed');
+            }
+          });
+          return;
+        }
+
+        // Initially hide all file and folder tree items
+        treeContainer.querySelectorAll('.tree-item').forEach(item => {
+          item.classList.add('is-hidden');
+        });
+
+        // 1. Match file items
+        fileLinks.forEach(a => {
+          const title = (a.textContent || '').toLowerCase();
+          if (title.includes(query)) {
+            const fileItem = a.closest('.tree-item');
+            if (fileItem) {
+              fileItem.classList.remove('is-hidden');
+
+              // Show and expand all parent folders
+              let parentFolder = fileItem.parentElement ? fileItem.parentElement.closest('.tree-item') : null;
+              while (parentFolder) {
+                parentFolder.classList.remove('is-hidden');
+                const contents = parentFolder.querySelector('.tree-folder-contents');
+                if (contents) {
+                  contents.classList.remove('is-collapsed');
+                  contents.classList.add('is-expanded');
+                }
+                parentFolder = parentFolder.parentElement ? parentFolder.parentElement.closest('.tree-item') : null;
+              }
+            }
+          }
+        });
+
+        // 2. Match folder items directly
+        folderDivs.forEach(folderDiv => {
+          const folderTitle = (folderDiv.textContent || '').toLowerCase().trim();
+          if (folderTitle.includes(query)) {
+            const folderItem = folderDiv.closest('.tree-item');
+            if (folderItem) {
+              folderItem.classList.remove('is-hidden');
+
+              // Show all child tree items inside matching folder
+              folderItem.querySelectorAll('.tree-item').forEach(child => {
+                child.classList.remove('is-hidden');
+              });
+
+              const contents = folderItem.querySelector('.tree-folder-contents');
+              if (contents) {
+                contents.classList.remove('is-collapsed');
+                contents.classList.add('is-expanded');
+              }
+
+              // Show and expand all parent folders above this matching folder
+              let parentFolder = folderItem.parentElement ? folderItem.parentElement.closest('.tree-item') : null;
+              while (parentFolder) {
+                parentFolder.classList.remove('is-hidden');
+                const parentContents = parentFolder.querySelector('.tree-folder-contents');
+                if (parentContents) {
+                  parentContents.classList.remove('is-collapsed');
+                  parentContents.classList.add('is-expanded');
+                }
+                parentFolder = parentFolder.parentElement ? parentFolder.parentElement.closest('.tree-item') : null;
+              }
             }
           }
         });
