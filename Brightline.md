@@ -2,6 +2,7 @@
 layout: "default"
 title: "Brightline"
 ---
+
 Privately operated train line in <span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Florida</span>
 
 ## Projects

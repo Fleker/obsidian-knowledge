@@ -109,7 +109,7 @@ title: "Trump Immigration Policy"
 * [According to Gothamist, federal judges have released several West African Canal Street vendors after ruling their arrests by ICE unlawful, raising serious questions about the legality of the raids.](https://www.instapaper.com/read/1981249556)
 * [Aaron Rupar highlights that ICE officials, under questioning by Rand Paul, confirmed that yelling at officers is not assault and recording them is not a crime.](https://bsky.app/profile/atrupar.com/post/3meogyr355n2q)
 * * [Following a ProPublica report highlighting detained children, staff at an ICE facility in Dilley, Texas, reportedly raided dormitories to confiscate and destroy letters written by the children.](https://bsky.app/profile/volts.wtf/post/3mf3ft6ika227)
-
+* ["EXCLUSIVE — In a bizarre turn of events, ICE officers say morale is lower under Trump than it was under Biden."](https://x.com/Anna_Giaritelli/status/2079964918552416417)
 
 
 

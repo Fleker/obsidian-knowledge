@@ -24,3 +24,9 @@ title: "Iran War"
 * [The cartoon depicts a satirical comparison of the Obama and Trump administrations' approaches to the Iran nuclear deal, highlighting contrasting policies on the Strait of Hormuz, uranium enrichment, and international inspections, with Trump's approach labeled as a strategic maneuver.](https://x.com/QasimRashid/status/2041696797815419197)
 * [Republican senators blocked multiple attempts to pass a War Powers Resolution, highlighting a disagreement between Republicans and Democrats regarding military action, with some arguing the minority party's leadership failed to act on the resolution.](https://x.com/JournalistFact1/status/2041586002234687959)
 * [Iran plans to implement a $2.33 per ton carbon tax on ships transiting the Strait of Hormuz, a move garnering unexpected support from former President Trump.](https://x.com/robinsonmeyer/status/2042025976863879536)
+* [Asha Rangappa highlights a court filing suggesting the DoD utilized xAI's Grok Gov Model for targeting operations during military conflict.](https://bsky.app/profile/theophite.bsky.social/post/3mor2xcgwgc2x)
+
+- I [ask](https://x.com/HandNF/status/2036084069184754032) if it is appropriate for Iran to launch missiles in the name of people like Aaron Bushnell and Rachel Corrie.
+
+
+

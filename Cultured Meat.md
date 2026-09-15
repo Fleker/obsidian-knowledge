@@ -14,6 +14,10 @@ Use animal cells taken non-fatally and grown in a lab to produce the perfect mea
 ## Economics
 - As it scales, chicken will be able to get in the range of [$6.20/lb](https://x.com/cremieuxrecueil/status/1827848463603925387)
 
+## Bioengineering
+
+- [Poplicola points out](https://x.com/selectsand/status/2050896780573782433) an earlier challenge was fat and marbling but now they can grow fat and muscle tissue indepenently
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MDExMzE3NjQsLTcxOTI3NTgxN119
 -->

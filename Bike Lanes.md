@@ -13,6 +13,7 @@ In Bayside, bike lanes [are weirdly controversial](https://www.nytimes.com/2024/
 * Voters don’t seem [to punish politicians](https://x.com/jarjoh/status/1966125346744631395) for adding bike lanes
 * Study shows how they [improve safety for everyone on the road](https://x.com/Boenau/status/2014015130154000513) 
 * A plumber explains [how he uses bikes for most of his business](https://x.com/Boenau/status/1911071104875090281) 
+* [Jonathan Berk (@berkie1) highlights the Boston Herald's shifting stance on urban cycling infrastructure, contrasting a cautious 2019 editorial advising the city to "ease into bike lanes" with an urgent 2026 piece declaring "the time for safe streets in Boston is now."](https://x.com/berkie1/status/2077129331352936578)
 
 
 ## In New York City
@@ -22,7 +23,7 @@ In Bayside, bike lanes [are weirdly controversial](https://www.nytimes.com/2024/
 - Federal funding secured for [a west-east bike connector](https://x.com/SenSchumer/status/1837217773174378509?t=O6rykknbToXJVNnDlpkGiA&s=19) in Inwood
 * [@sam_d_1995 highlights how well-protected bike lanes can serve as emergency lanes to bypass gridlock and reduce response times.](https://x.com/sam_d_1995/status/2062527682185719834)
 * [Streetfilms highlights the stark contrast in urban space efficiency by comparing how the same curb space allotment can accommodate either 8 to 10 parked cars, 88 Citibikes, or hundreds of delivery e-bikes.](https://x.com/Streetfilms/status/2047673308783493564)
-
+* [Basil (@LinkofSunshine) praises Mayor Mamdani's proposal to repeal a 17-year-old charter provision requiring fire department approval for bike lanes, aiming to cut bureaucratic red tape for street redesigns.](https://x.com/LinkofSunshine/status/2072673910928056363)
 
 ## In Philadelphia
 - Philly Council President proposed [**Get out of the Bike Lane**](https://x.com/DPearsonPHL/status/1831729257137000637) bill to increase scrutiny for cars parking in bike lanes

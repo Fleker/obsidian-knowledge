@@ -29,6 +29,10 @@ coordinate research efforts toward improving access to housing across geographie
 > - and fund pre-approved “model building plans” to be placed in the public domain to reduce both permitting costs and design soft costs. 
 > -[Niskanen Center](https://www.niskanencenter.org/evaluating-the-reducing-regulatory-barriers-to-housing-act/?utm_source=feedly&utm_medium=rss&utm_campaign=evaluating-the-reducing-regulatory-barriers-to-housing-act)
 
+## Arizona
+Signed laws allow for [ADUs and missing middle](https://x.com/RepAnaliseOrtiz/status/1793030432235114820?t=UzeIUrFuVDPYghxicGN0uA&s=19).
+- [Shot clock](https://x.com/stan_okl/status/1855001877605130581) law requires deadline for responding to permits
+
 ## California
 California has passed a lot of YIMBY wins with leadership from Scott Weiner.
 - [Builder's Remedy comes for San Francisco](https://t.co/CH6e4Vazbe)
@@ -84,6 +88,15 @@ Emeryville is [one city that has managed to retain Black residents through devel
 	- > CEQA will no longer apply to *any* infill housing under 85’. No inclusionary zoning or labor provisions.
 * [California law now mandates local governments to issue building permits and certificates of occupancy for buildings with 10 units or fewer within 30 days and 10 days respectively, or builders can outsource the process.](https://x.com/tobyhardtospell/status/1990466329133134079)
 * [California developers are restricted from evicting entire buildings to demolish them and build new condos thanks to tenant protections in the Housing Crisis Act of 2019 (SB 330).](https://x.com/maxdubler/status/1927744854580179403)
+* [California YIMBY highlights how preapproved 'pattern book' plans can reduce permitting delays and save up to $10K in upfront design costs, helping to lower overall housing prices.](https://bsky.app/profile/cayimby.bsky.social/post/3mpvrhbm7ou2l)
+* [Jordan Grimes highlights a proposal to replace a Palo Alto motel with a 76-unit apartment complex, potentially marking the first project to utilize Senate Bill 79 (SB79) to build high-density housing near transit.](https://bsky.app/profile/cafedujord.bsky.social/post/3mq3655k4dk2y)
+	* [Alex Armlovich highlights that six rapid housing filings in Palo Alto under SB 79 prove that local "poison pill" zoning regulations, rather than financing, are what block housing development.](https://x.com/aarmlovi/status/2076010993658827210)
+* [Jordan Grimes (@cafedujord) celebrated the City of San Mateo's first SB79 project, a 5-story, 20-unit multi-family development at 606 S. Delaware St that replaces a single-family home with no parking.](https://x.com/cafedujord/status/2080728425405514183)
+* [Dr. Jeremy Levine highlights a historic 30-home SB 79 townhouse project proposed in Atherton, California's wealthiest community, which includes six affordable homes.](https://x.com/JeremyELevine/status/2083333651295789113)
+* [Max Dubler highlights a NIMBY newsletter inadvertently praising California YIMBY's legislative strategy of using state housing laws like AB 2011 and SB 330 to bypass local review.](https://x.com/maxdubler/status/2085467189713522715)
+* [Senator Scott Wiener's bill SB 677 has received final Senate approval to close key loopholes, such as frivolous subdivision mapping appeals and abused bond hearings, that delay affordable housing development.](https://x.com/Scott_Wiener/status/2094239476390498694)
+* [Senator Scott Wiener announced that SB 908, a bill allowing homeowners to install energy-efficient windows without city or HOA micro-management, has passed the Senate and is headed to the Governor.](https://x.com/Scott_Wiener/status/2092803284591616328)
+
 
 ### San Francisco
 - 200 Unit Development at [Duboce Triangle](https://x.com/YIMBYLAND/status/1810473344589856972)
@@ -92,6 +105,9 @@ Emeryville is [one city that has managed to retain Black residents through devel
 * [Senator Scott Wiener alleges that the city is funding groups opposing affordable housing projects, highlighting a perverse situation where taxpayer money supports opposition to housing initiatives, driven by NIMBYism rather than a genuine concern for affordability.](https://x.com/ArmandDoma/status/1936479202351669659)
 * Passes David Lurie’s [Family Zoning plan](https://x.com/agarwal/status/1967787206661292329) 
 * [Bilal Mahmood highlights the passage of the Shared Housing Reform Act, which legalizes co-ops and shared housing for more than five unrelated residents in San Francisco.](https://x.com/bilalmahmood/status/2042322421999681659)
+* [TODNewsHub highlights San Francisco's final approval of a 23-story apartment tower at 1965 Market Street, signaling a shift away from NIMBY delays toward transit-oriented housing development.](https://x.com/TODNewsHub/status/2074126068110205025)
+* [Benjamin Schneider (@urbenschneider) highlights a new 8-story, 8-unit building near USF as one of the first projects demonstrating the impact of San Francisco's recent upzoning.](https://x.com/urbenschneider/status/2074497005850706228)
+* [Bilal Mahmood celebrates the news that San Francisco's infamous empty Divisadero car wash, a symbol of the city's stalled housing pipeline, is finally set to become 203 apartments.](https://x.com/ArmandDoma/status/2087962235184288252)
 
 ### San Diego
 - 22-story [high rise](https://x.com/AaronGuhreen/status/1844115942625923548) in Pacific Beach
@@ -106,6 +122,7 @@ The [Executive Directive 1](https://www.metroabundance.org/how-los-angeles-is-un
 
 - Any LA county home in residential areas [will be able to operate a min-restaurant](https://x.com/_lej44/status/1838257032748794051) with caveats
 * [M. Nolan Gray highlighted Downtown Los Angeles entering a "build housing everywhere" era as a developer scrapped plans for office towers in the Arts District to build two massive residential high-rises instead.](https://x.com/mnolangray/status/2059862981631254711)
+* * [TODNewsHub highlights the approval of Fourth & Central, a massive $2 billion mixed-use development in Downtown LA featuring 1,589 homes and transit-oriented design.](https://x.com/TODNewsHub/status/2072355502533525635)
 
 ### Santa Monica
 - After SB 112, they're doing [ministerial small lot subdivisions](https://x.com/mnolangray/status/1950571625423982950)
@@ -116,6 +133,114 @@ The [Executive Directive 1](https://www.metroabundance.org/how-los-angeles-is-un
 ### San Jose
 
 * [Sukrit Ganesh highlights San Jose's housing turnaround under Mayor Matt Mahan, though critics challenge the mayor's claims by pointing out his limited power under the city's council-manager government.](https://x.com/SukritGanesh/status/2050259443636703735)
+
+### Oakland
+* [California YIMBY highlights how a state density bonus override allows a 415-home tower in Rockridge to bypass Oakland's height limits and local opposition.](https://x.com/cayimby/status/2083954986476531856)
+
+## Colorado
+- ["Gov. Jared Polis is expected to sign into law a bill that would prohibit cities like Boulder from imposing occupancy limits that restrict how many unrelated people can live together."](https://t.co/zIdeTvqonl)
+- Removed [a ban on occupany limits](https://twitter.com/CastellanoChels/status/1779955869582577917)
+- A TOD bill allows [up to 20K units near transit](https://x.com/CNLiberalism/status/1792683209345601950)
+
+### Denver
+Denver has managed to [curb the tide on homelessness](https://newdemocracy.net/the-home-base/denver-mayor-homelessness-initiative) through a housing-first policy.
+
+- [Citywide legalization of ADUs](https://x.com/YIMBYLAND/status/1858944636837941332)
+- Denver metro [added 20K apartments in 2024](https://x.com/MattFrommer/status/1882894258568585289), causing a drop in rents
+- Modular apartment has 77 units, 6 stories. Went up [in seven days](https://x.com/kane/status/1895303309294182746).
+
+
+
+## Connecticut
+
+- New Haven improves [floor-area ratio](https://x.com/Eli_Sabin/status/1996326451562352725) and minimum apartment unit sizes
+
+## Hawaii
+- Passed [3-unit lots and mixed use housing](https://twitter.com/YIMBYLAND/status/1786023446016626785?t=6ACiRB3uOWJl_VuKsStWhg&s=19)
+
+## Illinois
+
+* [Paul E Williams highlights the Chicago DSA's updated platform endorsing upzoning, transit-oriented development, and land value taxation, contrasting their pro-housing stance with other chapters.](https://x.com/PEWilliams_/status/2060402121653010487)
+* [Alicia, Courtyard Urbanist (@UrbanCourtyard) highlights Chicago's building code update allowing residential buildings up to 15 stories to use space-saving "scissor stair" designs to meet the two-exit requirement.](https://x.com/UrbanCourtyard/status/2067586263750693249)
+* [M. Nolan Gray (@mnolangray) praises Governor JB Pritzker's plans to liberalize zoning, streamline permitting, and modernize building codes in Illinois.](https://x.com/mnolangray/status/2035531607378207168)
+* [Hayden (@the_transit_guy) celebrated Illinois Governor JB Pritzker's announcement to prioritize people over parking lots through the Building Up Illinois Developments Plan.](https://x.com/the_transit_guy/status/2036961050042482724)
+* [According to a Chicago Sun-Times commentary, Gov. JB Pritzker's BUILD agenda prioritizes ho
+
+
+## Maine
+- Legalized [triplexes](https://x.com/YIMBYLAND/status/1940563899801366987)
+
+
+
+## Maryland
+
+* [Baltimore City Council is implementing zoning reforms including single-stair reform and eliminating parking requirements to increase housing feasibility, a move that could benefit cities beyond major metropolitan areas.](https://x.com/zyudhishthu/status/1922276788832456903)
+- Baltimore [passes bills](https://x.com/sam_d_1995/status/1990551300371853335) with parking mandate ending, single-stair buildings, and denser housing
+
+
+## Massachusetts
+- Somerville [re-legalized triple-decker housing](https://x.com/berkie1/status/1836432019087331707)
+* [Los Angeles could alleviate its deficit by repealing rent control, mirroring Cambridge, MA's experience which saw increased housing construction, tax revenue, and property values after repeal.](https://x.com/LA_Multi_Fam/status/1954326524729200745)
+* Somertville is a [dense walkable community](https://x.com/ImproveMass/status/1966256149784920076) where few people drive to work
+* [Henry Grabar highlights how Cambridge's city-wide upzoning initiative successfully enabled a new 55-unit residential development, with 20% affordable housing, to replace a single $3 million home.](https://bsky.app/profile/henrygrabar.bsky.social/post/3mmrs6ge5t22d)
+- Marblehead resident [makes a speech in a public hearing](https://x.com/yhdistyminen/status/2052158658306269454) on meeting 3A requirements
+* [Adam (@LionelThrilling) praises the candid "plain talk" of David Modica, who challenged local self-interest and NIMBYism regarding housing compliance at a Marblehead town meeting.](https://x.com/LionelThrilling/status/2052388892070793488)
+
+
+### Boston
+A development project in Fenway is seeking to [build 30 stories](https://www.universalhub.com/2023/proposed-23-story-residential-building-fenway-now) without parking spots.
+- Cambridge [has ended exclusionary zoning](https://x.com/realBurhanAzeem/status/1889127975011979436)
+* [Luxury condo developers in Boston are offering discounts due to unsold inventory, contrasting with previous beliefs about developers not overbuilding.](https://x.com/ArmandDoma/status/2006470736060494302)
+* [Boston Globe editorial board argues that planning and zoning boards should justify rejections or reductions of apartment projects, as such actions undermine public good.](https://x.com/berkie1/status/2005293673987334533) 
+* * [Jonathan Berk argues that while science-based septic system regulations are crucial for environmental protection, they shouldn't be overly restrictive and used to impede housing development.](https://x.com/berkie1/status/1977346834499502304) in the Boston Globe
+* [ConnectedSF shared updates on a local protest opposing the proposed 25-story Marina Safeway Development, urging residents to sign a petition against the fast-tracked AB 2011 approval.](https://x.com/ConnectedSF/status/2039404758335939050)
+
+## Michigan
+
+* [Vivian (@vivian39_) suggests supporting housing developers to challenge landlords who complain about competing with new apartment constructions.](https://x.com/vivian39_/status/2065174420520358383)
+
+
+
+## Minnesota
+- Governor Tim Walz studied legalizing [single-stair apartments](https://x.com/cayimby/status/1820882604104790228)
+	- Governor supports [permit reform](https://x.com/CNLiberalism/status/1820838406525530500)
+	- Is also [pro-nuclear](https://x.com/AlexCKaufman/status/1820854482244165922)
+- Bipartisan "Yes to Homes" coalition
+	- Passed [Starter Homes Act](https://x.com/berkie1/status/1899821477689479346):
+		- Allow duplexes and ADUs
+		- Allow townhouses
+		- Reduce minimum lot sizes
+		- Administrative review
+- Minneapolis’s efforts at building housing [has kept rents very affordable](https://x.com/aarmlovi/status/1942176319212531801) 
+
+
+## Missouri
+
+- * ["Parking minimum requirements have officially been lifted in Kansas City."](https://x.com/molzer/status/2042335053494018492)
+
+
+## Montana
+- State Supreme Court [reverses injunction](https://x.com/YIMBYLAND/status/1831472436996665366) on SB 323 and SB 528
+	- This means ADUs are available and single-family zoning is eliminated in cities (>5K residents)
+
+
+## New Hampshire
+- Passed [big reforms](https://x.com/YIMBYLAND/status/1945536423035068700) with single-stair, parking minimum reform, bed reform, zoning appeal limits, and ADU expansion
+
+## New Jersey
+In NJ, the Mount Laurel decision forced municipalities [to create affordable housing](https://nextcity.org/urbanist-news/new-jersey-just-took-bold-action-on-exclusionary-zoning-model). That approach works. NJ also has some of the oldest zoning laws configured for racial exclusion. This decision was because Mount Laurel [legally prevented affordable housing construction](https://www.nytimes.com/2024/07/13/headway/mount-laurel-nj-affordable-housing.html).
+
+- Jersey City builds [as much housing](https://jerseydigs.com/jersey-city-rental-construction-2024/) as Manhattan, 9% [of the entire state](https://x.com/StevenFulop/status/1850556464441573852)
+- 1300 units at 27 FAR [in Jersey City](https://x.com/CohenSite/status/1836225984691052917?t=WBIPwYvWx0qQ14R6yrB4xA&s=19)
+- Newark gets [hundreds of new units](https://www.nytimes.com/2024/09/18/nyregion/performing-arts-real-estate-nj.html) and an arts hub, a community center, and space for public radio station _WBGO_
+	- 20% must be affordable (40-80% AMI) to get tax credits
+- State bill A4972 would allow [4-5 story single-stair buildings](https://x.com/3_under_scores_/status/1889130477623075067)
+- Newark's 47-story, 1151 apartment building [will have zero cars](https://x.com/3_under_scores_/status/1890166558284214496)
+- Underused site [becoming 8000 new homes](https://x.com/the_transit_guy/status/1965537125459525942) 
+* [Sar Haribhakti highlights how a post-pandemic building boom in Jersey City created an inventory surge, forcing landlords to compete on price and lowering rents.](https://x.com/i/bookmarks)
+* [Open New York highlighted a 12-game Jeopardy champion working in affordable housing finance who shamed New York, Connecticut, and Pennsylvania for failing to build enough housing compared to New Jersey.](https://x.com/OpenNYForAll/status/2039053191342379131)
+* [Better Blocks New Jersey debunks the myth that buildings with PILOTs (Payments in Lieu of Taxes) do not pay taxes, clarifying that they pay land taxes and revenue-based payments that cannot fall below pre-development levels.](https://x.com/BetterBlocksNJ/status/2039432081206341834)
+
 
 
 ## New York State
@@ -190,6 +315,69 @@ The city is looking for funding [inclusionary zoning buildings](https://www.nyti
 * [Chris Goldammer (@floor_per_area) launched potential.nyc, an interactive mapping tool that visualizes zoning potential and air rights for NYC residential lots, allowing users to simulate upzoning scenarios by adjusting Floor Area Ratio (FAR).](https://x.com/floor_per_area/status/2051653698913202427)
 * [@crosstown_line highlights that New York City's bike infrastructure has advanced to the point of serving as a global model for international urban planning professionals.](https://x.com/crosstown_line/status/2039544201646318035)
 * [@NYCHousing announced the NYC Council's approval of the city's first ELURP application at 351 Powers Avenue, fast-tracking 84 affordable homes in just 90 days.](https://x.com/NYCHousing/status/2057176300469498302)
+* New York is building a high of [39K apartments a year](https://x.com/LinkofSunshine/status/2074153770661953867), only second to the 75K a year in the 
+1920s
+	* [Alex Armlovich (@aarmlovi) argues that while matching NYC's 1965 housing production reflects Mayor Adams' incremental reforms, further zoning reforms are essential to reach and sustain a target of 50,000 new homes annually.](https://x.com/aarmlovi/status/2074179904891994533)
+* [Andrew Giambrone reports that an underutilized NYPD parking lot in the East Village will be transformed into 'The Aurea,' a mixed-use development featuring approximately 131 affordable homes, a senior center, and community space.](https://x.com/AndrewGiambrone/status/2076687044068171998)
+- [Nia (@_johnsonator) expresses confidence that rent control will not negatively impact the NYC rental market if it is accompanied by a consistent supply of new housing, pointing to the approval of the Monitor Point development.](https://x.com/_johnsonator/status/2077867861960163422)
+* [Paul E Williams (@PEWilliams_) highlights a 12-story, 150-home modular building in Bushwick, Brooklyn, constructed entirely offsite in Quebec and assembled on-site.](https://x.com/PEWilliams_/status/2088711924896657591)
+* [Paul E Williams (@PEWilliams_) explains that NYC successfully built 700,000 housing units in the 1920s by implementing a 12-year tax holiday on new structures, leaving only land value taxed to spark a post-war building boom.](https://x.com/PEWilliams_/status/2091267417703903409)
+* [TODNewsHub highlighted "The Orion," a proposed 980-unit, three-building residential megaproject set to bring high-density housing and community amenities to the Hunters Point South waterfront in Queens.](https://x.com/TODNewsHub/status/2084266786112106757)
+* [Basil (@LinkofSunshine) highlights that the NYC planning committee has achieved three consecutive months of unanimous approval on rezoning decisions without a single dissenting vote.](https://x.com/LinkofSunshine/status/2092010935770583346)
+* [@the_transit_guy highlights the adaptive reuse of an abandoned industrial building in Long Island City, which has been converted into a 182-unit condominium complex and a new waterfront park.](https://x.com/the_transit_guy/status/2085368475984220339)
+* [Basil (@LinkofSunshine) highlights how the 2001 Long Island City rezoning, which removed height limits and raised the FAR, vastly outperformed expectations by producing nearly 11,000 housing units instead of the projected 300.](https://x.com/LinkofSunshine/status/2093152123001114721)
+
+
+## North Carolina
+- Passed ban [preventing municipalities from downzoning](https://x.com/christianbrits/status/1869121068855964052)
+- Several bills together [would expand housing development](https://x.com/ForwardCarolina/status/1904558505471733872)
+- Banned [parking minimums](https://x.com/ForwardCarolina/status/1937975767717011531)
+* [Jeff Fong highlights how Charlotte's Queen City ADU Program incentivizes homeowners to build affordable accessory dwelling units (ADUs) in their backyards, effectively turning potential NIMBYs into active YIMBYs.](https://www.instapaper.com/read/2009014178)
+
+
+## Ohio
+
+### Columbus
+The city passed [a number of housing reforms](https://x.com/aarmlovi/status/1818106105462931486) including relief on <span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Parking Mandates</span> and broad upzoning.
+
+* [Middletown, Ohio, experienced a decline from its mid-20th century industrial peak centered around Armco Steel, highlighting the challenges faced by Rust Belt cities.](https://www.instapaper.com/read/1870076687)
+
+
+## Oklahoma
+- [Trying to build the country's tallest skyscraper](https://twitter.com/AurumCorpus/status/1749887570308178111)
+
+
+## Oregon
+* [Bend, Oregon's planned construction of 1,000 new apartments in 2025 is expected to significantly reduce rental costs.](https://x.com/mnolangray/status/1988437417515471192)
+* [Portland's Residential Infill Project, allowing middle housing on single-family lots since 2020, has successfully built 1,400 homes, offering a $300K price advantage.](https://x.com/berkie1/status/2008629758624399560)
+* [Oregon has implemented statewide zoning reforms to standardize housing regulations, overriding local restrictions and legalizing lot splits to address housing affordability challenges, following successful models in other developed nations.](https://www.instapaper.com/read/1868247252)
+
+
+## Pennsylvania
+
+* [Pennsylvania lawmakers have advanced "The Golden Girls Law," which aims to remove arbitrary limits on unrelated individuals living together to address affordable housing shortages by allowing shared housing based on health and safety standards.](https://www.instapaper.com/read/2008359061)
+
+### Montgomery County
+
+* [The discussion highlights the disparity between market-rate housing costs and subsidized housing affordability, questioning the rationale behind high market rents while advocating for mixed-income housing models.](https://x.com/PEWilliams_/status/1931123365449986411)
+* [Paul E Williams announced the approval of 800 new housing units in Montgomery County, a significant development courtesy of the HOCMC.](https://x.com/PEWilliams_/status/1993518744384254246)
+
+### Philadelphia
+<span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Philadelphia</span> is working on a new urban-centric sports arena in Center City that [does not need more parking](https://twitter.com/harrisonfinberg/status/1725164298115121637).
+
+- $750 [in a triplex](https://x.com/dmtrubman/status/1841479987309773019)
+- A recent surge in apartments, 13K in 2024, is [leading to a rent decrease](https://x.com/jongeeting/status/1879880291566883177/photo/1)
+- [Nearly a quarter of the homes in Philly in 2024 were in one zip code](https://t.co/RU1PViwosH)
+
+## South Carolina
+
+- Charlotte has [transit-oriented development](https://x.com/YIMBYLAND/status/1961880422226280927) in the South End
+
+## Tennessee
+
+* [Demolishing a riverfront highway in Chattanooga led to significant positive outcomes including substantial investment, increased tax revenue, and property/population value growth, demonstrating a successful urban redevelopment strategy. Mark R. Brown (@CompletedStreet) shared this positive outcome.](https://x.com/CompletedStreet/status/1951263386764742989)
+* [Cory in San Francisco (@coryfromphilly) highlights how an oversupply of market-rate housing, as seen in Nashville's high vacancy rates, naturally forces landlords to offer concessions, demonstrating the universal impact of housing supply on rent prices.](https://x.com/coryfromphilly/status/2053618324375048674)
+
 
 ## Texas
 
@@ -197,7 +385,7 @@ The city is looking for funding [inclusionary zoning buildings](https://www.nyti
 * [Rick Palacios Jr. highlights that single-family rent-to-income ratios in Dallas and Austin are plummeting, making renting a home in Dallas the most affordable it has been since 2008.](https://x.com/RickPalaciosJr/status/2049181710621855860)
 * [@TahraHoops highlights that lowering rental costs through housing abundance is a powerful anti-poverty strategy, noting that a 15% rent decline in high-cost cities matches the impact of the 2021 Child Tax Credit expansion.](https://x.com/TahraHoops/status/2049906260552945701)
 * [Kevin Erdmann argues that the national housing affordability crisis is a federal mortgage gatekeeper problem, where buying is cheaper than renting but restricted by lending barriers.](https://x.com/KAErdmann/status/2064871370195099792)
-
+* [Jonathan Berk (@berkie1) highlights how Texas SB 840 bypassed local zoning to allow commercial-to-multifamily conversions by right, resulting in 8,400 permitted apartments.](https://x.com/berkie1/status/2081758592663687396)
 
 ### Austin
 Texas, which has very limited zoning laws, has seen a large influx of people. Austin is building [tons of new apartments](https://twitter.com/StealthQE4/status/1714061510736019727/history), which will drop rents significantly. The city's new [Home Act](https://twitter.com/atxREpodcast/status/1733113801128411247) introduces a lot of reform. This move [hurts institutional investors](https://twitter.com/maxdubler/status/1737137357177196822).
@@ -218,78 +406,40 @@ Rents [are now falling](https://x.com/ArmandDoma/status/1810161795480580249).
 ### Dallas
 - Dallas is building [more homes than California](https://x.com/AaronGuhreen/status/1794505449397710991?t=vjnDN1NNHvmL5gO6Kk43tg&s=19)
 
-## Massachusetts
-- Somerville [re-legalized triple-decker housing](https://x.com/berkie1/status/1836432019087331707)
-* [Los Angeles could alleviate its deficit by repealing rent control, mirroring Cambridge, MA's experience which saw increased housing construction, tax revenue, and property values after repeal.](https://x.com/LA_Multi_Fam/status/1954326524729200745)
-* Somertville is a [dense walkable community](https://x.com/ImproveMass/status/1966256149784920076) where few people drive to work
-* [Henry Grabar highlights how Cambridge's city-wide upzoning initiative successfully enabled a new 55-unit residential development, with 20% affordable housing, to replace a single $3 million home.](https://bsky.app/profile/henrygrabar.bsky.social/post/3mmrs6ge5t22d)
-- Marblehead resident [makes a speech in a public hearing](https://x.com/yhdistyminen/status/2052158658306269454) on meeting 3A requirements
-
-### Boston
-A development project in Fenway is seeking to [build 30 stories](https://www.universalhub.com/2023/proposed-23-story-residential-building-fenway-now) without parking spots.
-- Cambridge [has ended exclusionary zoning](https://x.com/realBurhanAzeem/status/1889127975011979436)
-* [Luxury condo developers in Boston are offering discounts due to unsold inventory, contrasting with previous beliefs about developers not overbuilding.](https://x.com/ArmandDoma/status/2006470736060494302)
-* [Boston Globe editorial board argues that planning and zoning boards should justify rejections or reductions of apartment projects, as such actions undermine public good.](https://x.com/berkie1/status/2005293673987334533) 
-* * [Jonathan Berk argues that while science-based septic system regulations are crucial for environmental protection, they shouldn't be overly restrictive and used to impede housing development.](https://x.com/berkie1/status/1977346834499502304) in the Boston Globe
-* [ConnectedSF shared updates on a local protest opposing the proposed 25-story Marina Safeway Development, urging residents to sign a petition against the fast-tracked AB 2011 approval.](https://x.com/ConnectedSF/status/2039404758335939050)
-
-## Pennsylvania
-
-* [Pennsylvania lawmakers have advanced "The Golden Girls Law," which aims to remove arbitrary limits on unrelated individuals living together to address affordable housing shortages by allowing shared housing based on health and safety standards.](https://www.instapaper.com/read/2008359061)
-
-### Montgomery County
-
-* [The discussion highlights the disparity between market-rate housing costs and subsidized housing affordability, questioning the rationale behind high market rents while advocating for mixed-income housing models.](https://x.com/PEWilliams_/status/1931123365449986411)
-* [Paul E Williams announced the approval of 800 new housing units in Montgomery County, a significant development courtesy of the HOCMC.](https://x.com/PEWilliams_/status/1993518744384254246)
-
-### Philadelphia
-<span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Philadelphia</span> is working on a new urban-centric sports arena in Center City that [does not need more parking](https://twitter.com/harrisonfinberg/status/1725164298115121637).
-
-- $750 [in a triplex](https://x.com/dmtrubman/status/1841479987309773019)
-- A recent surge in apartments, 13K in 2024, is [leading to a rent decrease](https://x.com/jongeeting/status/1879880291566883177/photo/1)
-- [Nearly a quarter of the homes in Philly in 2024 were in one zip code](https://t.co/RU1PViwosH)
-
-## Oklahoma
-- [Trying to build the country's tallest skyscraper](https://twitter.com/AurumCorpus/status/1749887570308178111)
-
-## Hawaii
-- Passed [3-unit lots and mixed use housing](https://twitter.com/YIMBYLAND/status/1786023446016626785?t=6ACiRB3uOWJl_VuKsStWhg&s=19)
+## Virginia
+- Charlottesville's new zoning code is repealed, [leaving no zoning code at all](https://x.com/christianbrits/status/1942630987550072846)
 
 ## Washington State
 - New governor, Bob Ferguson, aims to [streamline permitting and reduce housing regulations](https://x.com/SEANewLiberals/status/1879648206214373609) through executive orders
 * [Washington state compensates developers for building affordable housing, unlike California where a lack of compensation may hinder project feasibility.](https://x.com/tobyhardtospell/status/1941998597513596981)
 * [Saad Asad highlights that Washington unanimously legalized scissor stairs, a building code reform that frees up to 56% more living space per floor to enable cheaper housing.](https://x.com/realsaadasad/status/2057862056213127348)
+- Spokane passed [several housing reforms](https://x.com/JosephPolitano/status/1874197600796393506) which have led to a record housing boom
+
 
 ### Seattle
 - Parkview Green project will [redevelop lots and let owners live in the penthouse](https://x.com/drvolts/status/1801733780287406109)
 	- This is called [antiparochi](https://x.com/aarmlovi/status/1801641582300377130) and is common in Athens
+- Bateman [legalized fourplexes](https://x.com/aaronAcarr/status/1857862021233983763) and won big in the next election
+* [Aidan T (@buildhomez) highlights a proposal by Seattle's mayor to temporarily slash inclusionary housing fees (MHA) by 80-90% to kickstart multifamily development.](https://x.com/buildhomez/status/2065296094352052302)
+* [Alex Armlovich highlights Seattle's purchase of a $60 million upscale apartment building to destigmatize social housing, noting the acquisition cost aligns with building a standard LIHTC property.](https://x.com/aarmlovi/status/2072293206801236009)
+
 
 ## Washington DC
 - Adding 115 affordable homes on a triangle of land in NoMa in a [Flatiron project](https://x.com/2024dion/status/1805614375035605400)
 - Met mayor's goal of [36K new units](https://x.com/salimfurth/status/1818640071886561636) earlier than expected
 
-## Arizona
-Signed laws allow for [ADUs and missing middle](https://x.com/RepAnaliseOrtiz/status/1793030432235114820?t=UzeIUrFuVDPYghxicGN0uA&s=19).
-- [Shot clock](https://x.com/stan_okl/status/1855001877605130581) law requires deadline for responding to permits
 
-## Minnesota
-- Governor Tim Walz studied legalizing [single-stair apartments](https://x.com/cayimby/status/1820882604104790228)
-	- Governor supports [permit reform](https://x.com/CNLiberalism/status/1820838406525530500)
-	- Is also [pro-nuclear](https://x.com/AlexCKaufman/status/1820854482244165922)
-- Bipartisan "Yes to Homes" coalition
-	- Passed [Starter Homes Act](https://x.com/berkie1/status/1899821477689479346):
-		- Allow duplexes and ADUs
-		- Allow townhouses
-		- Reduce minimum lot sizes
-		- Administrative review
-- Minneapolis’s efforts at building housing [has kept rents very affordable](https://x.com/aarmlovi/status/1942176319212531801) 
+## Argentina
+- Deregulating housing under Milei [leading to rent prices falling](https://x.com/Austen/status/1819884628423098476)
 
-## Montana
-- State Supreme Court [reverses injunction](https://x.com/YIMBYLAND/status/1831472436996665366) on SB 323 and SB 528
-	- This means ADUs are available and single-family zoning is eliminated in cities (>5K residents)
 
-## Virginia
-- Charlottesville's new zoning code is repealed, [leaving no zoning code at all](https://x.com/christianbrits/status/1942630987550072846)
+## Australia
+
+### Auckland
+
+* [Kevin Erdmann highlights how upzoning in Auckland successfully boosted housing supply and affordability, driven primarily by the construction of townhouses.](https://x.com/KAErdmann/status/2055358624067883242)
+
+
 
 ## New Zealand
 In Auckland, a large structural rezoning led to [reduced rents](https://twitter.com/ArmandDoma/status/1723226101596791007) for everyone. More importantly, these effects helped the poorest the most. Read about [New Zealand's Upzoning in Works in Progress](https://www.worksinprogress.news/p/upzoning-new-zealand). They realized [you cannot rely on local control](https://x.com/vb_jens/status/1803117125332246725) to achieve policy success.
@@ -300,108 +450,13 @@ The housing minister says [shoebox apartments are better than being homeless](ht
 
 - New South Wales [publishes pattern book](https://x.com/YIMBYLAND/status/1995548378579488806) for missing idle housing
 
-## New Jersey
-In NJ, the Mount Laurel decision forced municipalities [to create affordable housing](https://nextcity.org/urbanist-news/new-jersey-just-took-bold-action-on-exclusionary-zoning-model). That approach works. NJ also has some of the oldest zoning laws configured for racial exclusion. This decision was because Mount Laurel [legally prevented affordable housing construction](https://www.nytimes.com/2024/07/13/headway/mount-laurel-nj-affordable-housing.html).
-
-- Jersey City builds [as much housing](https://jerseydigs.com/jersey-city-rental-construction-2024/) as Manhattan, 9% [of the entire state](https://x.com/StevenFulop/status/1850556464441573852)
-- 1300 units at 27 FAR [in Jersey City](https://x.com/CohenSite/status/1836225984691052917?t=WBIPwYvWx0qQ14R6yrB4xA&s=19)
-- Newark gets [hundreds of new units](https://www.nytimes.com/2024/09/18/nyregion/performing-arts-real-estate-nj.html) and an arts hub, a community center, and space for public radio station _WBGO_
-	- 20% must be affordable (40-80% AMI) to get tax credits
-- State bill A4972 would allow [4-5 story single-stair buildings](https://x.com/3_under_scores_/status/1889130477623075067)
-- Newark's 47-story, 1151 apartment building [will have zero cars](https://x.com/3_under_scores_/status/1890166558284214496)
-- Underused site [becoming 8000 new homes](https://x.com/the_transit_guy/status/1965537125459525942) 
-* [Sar Haribhakti highlights how a post-pandemic building boom in Jersey City created an inventory surge, forcing landlords to compete on price and lowering rents.](https://x.com/i/bookmarks)
-* [Open New York highlighted a 12-game Jeopardy champion working in affordable housing finance who shamed New York, Connecticut, and Pennsylvania for failing to build enough housing compared to New Jersey.](https://x.com/OpenNYForAll/status/2039053191342379131)
-* [Better Blocks New Jersey debunks the myth that buildings with PILOTs (Payments in Lieu of Taxes) do not pay taxes, clarifying that they pay land taxes and revenue-based payments that cannot fall below pre-development levels.](https://x.com/BetterBlocksNJ/status/2039432081206341834)
-
-
-## Colorado
-- ["Gov. Jared Polis is expected to sign into law a bill that would prohibit cities like Boulder from imposing occupancy limits that restrict how many unrelated people can live together."](https://t.co/zIdeTvqonl)
-- Removed [a ban on occupany limits](https://twitter.com/CastellanoChels/status/1779955869582577917)
-- A TOD bill allows [up to 20K units near transit](https://x.com/CNLiberalism/status/1792683209345601950)
-
-### Denver
-Denver has managed to [curb the tide on homelessness](https://newdemocracy.net/the-home-base/denver-mayor-homelessness-initiative) through a housing-first policy.
-
-- [Citywide legalization of ADUs](https://x.com/YIMBYLAND/status/1858944636837941332)
-- Denver metro [added 20K apartments in 2024](https://x.com/MattFrommer/status/1882894258568585289), causing a drop in rents
-- Modular apartment has 77 units, 6 stories. Went up [in seven days](https://x.com/kane/status/1895303309294182746).
-
-## Ohio
-
-### Columbus
-The city passed [a number of housing reforms](https://x.com/aarmlovi/status/1818106105462931486) including relief on <span class="private-link" title="This page is private" style="color: #94a3b8; cursor: not-allowed; text-decoration: dashed underline;">Parking Mandates</span> and broad upzoning.
-
-* [Middletown, Ohio, experienced a decline from its mid-20th century industrial peak centered around Armco Steel, highlighting the challenges faced by Rust Belt cities.](https://www.instapaper.com/read/1870076687)
-
-## Washington
-- Spokane passed [several housing reforms](https://x.com/JosephPolitano/status/1874197600796393506) which have led to a record housing boom
-
-### Seattle
-- Bateman [legalized fourplexes](https://x.com/aaronAcarr/status/1857862021233983763) and won big in the next election
-* [Aidan T (@buildhomez) highlights a proposal by Seattle's mayor to temporarily slash inclusionary housing fees (MHA) by 80-90% to kickstart multifamily development.](https://x.com/buildhomez/status/2065296094352052302)
-
-## North Carolina
-- Passed ban [preventing municipalities from downzoning](https://x.com/christianbrits/status/1869121068855964052)
-- Several bills together [would expand housing development](https://x.com/ForwardCarolina/status/1904558505471733872)
-- Banned [parking minimums](https://x.com/ForwardCarolina/status/1937975767717011531)
-
-## New Hampshire
-- Passed [big reforms](https://x.com/YIMBYLAND/status/1945536423035068700) with single-stair, parking minimum reform, bed reform, zoning appeal limits, and ADU expansion
-
-## Maine
-- Legalized [triplexes](https://x.com/YIMBYLAND/status/1940563899801366987)
-
-## Oregon
-* [Bend, Oregon's planned construction of 1,000 new apartments in 2025 is expected to significantly reduce rental costs.](https://x.com/mnolangray/status/1988437417515471192)
-* [Portland's Residential Infill Project, allowing middle housing on single-family lots since 2020, has successfully built 1,400 homes, offering a $300K price advantage.](https://x.com/berkie1/status/2008629758624399560)
-* [Oregon has implemented statewide zoning reforms to standardize housing regulations, overriding local restrictions and legalizing lot splits to address housing affordability challenges, following successful models in other developed nations.](https://www.instapaper.com/read/1868247252)
-
-## Maryland
-
-* [Baltimore City Council is implementing zoning reforms including single-stair reform and eliminating parking requirements to increase housing feasibility, a move that could benefit cities beyond major metropolitan areas.](https://x.com/zyudhishthu/status/1922276788832456903)
-- Baltimore [passes bills](https://x.com/sam_d_1995/status/1990551300371853335) with parking mandate ending, single-stair buildings, and denser housing
-
-## Tennessee
-
-* [Demolishing a riverfront highway in Chattanooga led to significant positive outcomes including substantial investment, increased tax revenue, and property/population value growth, demonstrating a successful urban redevelopment strategy. Mark R. Brown (@CompletedStreet) shared this positive outcome.](https://x.com/CompletedStreet/status/1951263386764742989)
-* [Cory in San Francisco (@coryfromphilly) highlights how an oversupply of market-rate housing, as seen in Nashville's high vacancy rates, naturally forces landlords to offer concessions, demonstrating the universal impact of housing supply on rent prices.](https://x.com/coryfromphilly/status/2053618324375048674)
-
-
-## Connecticut
-
-- New Haven improves [floor-area ratio](https://x.com/Eli_Sabin/status/1996326451562352725) and minimum apartment unit sizes
-
-
-## North Carolina
-
-* [Jeff Fong highlights how Charlotte's Queen City ADU Program incentivizes homeowners to build affordable accessory dwelling units (ADUs) in their backyards, effectively turning potential NIMBYs into active YIMBYs.](https://www.instapaper.com/read/2009014178)
 
 
 
 
-## South Carolina
 
 
-
-- Charlotte has [transit-oriented development](https://x.com/YIMBYLAND/status/1961880422226280927) in the South End
-
-
-## Missouri
-
-- * ["Parking minimum requirements have officially been lifted in Kansas City."](https://x.com/molzer/status/2042335053494018492)
-
-## Illinois
-
-* [Paul E Williams highlights the Chicago DSA's updated platform endorsing upzoning, transit-oriented development, and land value taxation, contrasting their pro-housing stance with other chapters.](https://x.com/PEWilliams_/status/2060402121653010487)
-* [Alicia, Courtyard Urbanist (@UrbanCourtyard) highlights Chicago's building code update allowing residential buildings up to 15 stories to use space-saving "scissor stair" designs to meet the two-exit requirement.](https://x.com/UrbanCourtyard/status/2067586263750693249)
-* [M. Nolan Gray (@mnolangray) praises Governor JB Pritzker's plans to liberalize zoning, streamline permitting, and modernize building codes in Illinois.](https://x.com/mnolangray/status/2035531607378207168)
-* [Hayden (@the_transit_guy) celebrated Illinois Governor JB Pritzker's announcement to prioritize people over parking lots through the Building Up Illinois Developments Plan.](https://x.com/the_transit_guy/status/2036961050042482724)
-* [According to a Chicago Sun-Times commentary, Gov. JB Pritzker's BUILD agenda prioritizes housing deregulation and luxury development over actual affordability and local zoning control.](https://www.instapaper.com/read/2011358490)
-
-## Michigan
-
-* [Vivian (@vivian39_) suggests supporting housing developers to challenge landlords who complain about competing with new apartment constructions.](https://x.com/vivian39_/status/2065174420520358383)
+using deregulation and luxury development over actual affordability and local zoning control.](https://www.instapaper.com/read/2011358490)
 
 
 ## Canada
@@ -411,9 +466,16 @@ There are some politicians like Sean Fraser who want to [legalize housing](https
 	- The city is [under construction](https://twitter.com/Khelsilem/status/1796738010819747891)
 - Canada is legalizing [four unit plexes by-right](https://x.com/CNLiberalism/status/1800985593909817769).
 * [Toronto has lifted a 66-year-old ban, now permitting the construction of new corner stores in residential areas, potentially increasing local access to goods.](https://x.com/berkie1/status/1989473200212988128)
+* [Materialist Gnostic observes that many oppressed groups view their struggle not as a fight against capitalism itself, but as a fight against their exclusion from it.](https://bsky.app/profile/walmsley.bsky.social/post/3moevjyq4bs2n)
 
 ### British Columbia
 - Major success including [high density, single stairs, and Transit-Oriented Development](https://twitter.com/aarmlovi/status/1778202794580996398?t=H7nmIoihbYkEMBh2_KgUbA&s=19)
+
+
+## Germany
+### Berlin
+
+* [In 19th-century Berlin, a 'reverse zoning' policy mandated minimum building heights in the city center to maintain a grand aesthetic, contrasting with the lower-rise suburbs.](https://x.com/SCP_Hughes/status/1928031530854576549)
 
 
 ## Great Britain
@@ -434,20 +496,7 @@ Tokyo does a number of unique urbanist things. One example is allowing any townh
 Japan overall has [nationally-set land use](https://x.com/CompletedStreet/status/1791255982598685078?t=XD5gKiNCw5hHip2ly14dSA&s=19).
 
 
-## Argentina
-- Deregulating housing under Milei [leading to rent prices falling](https://x.com/Austen/status/1819884628423098476)
 
-
-## Berlin
-
-* [In 19th-century Berlin, a 'reverse zoning' policy mandated minimum building heights in the city center to maintain a grand aesthetic, contrasting with the lower-rise suburbs.](https://x.com/SCP_Hughes/status/1928031530854576549)
-
-
-## Australia
-
-### Auckland
-
-* [Kevin Erdmann highlights how upzoning in Auckland successfully boosted housing supply and affordability, driven primarily by the construction of townhouses.](https://x.com/KAErdmann/status/2055358624067883242)
 
 
 

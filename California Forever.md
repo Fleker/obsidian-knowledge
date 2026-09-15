@@ -21,3 +21,13 @@ Rather than a charter city, they are [glomping on](https://www.suisun.com/files/
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTgzMjMyOTY0MiwtNTA0MTY5NzIwXX0=
 -->
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (4)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/Where%20should%20new%20cities%20go.html" class="backlink-item">📄 Where should new cities go</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/The%20California%20Forever%20project%20is%20a%20great%20idea.html" class="backlink-item">📄 The California Forever project is a great idea</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/California%20Forever%20Project%20A%20New%20City%20of%20Dreams.html" class="backlink-item">📄 California Forever Project A New City of Dreams</a></li>
+    <li class="backlink-item-wrap"><a href="Book%20Annotations/Suisun%20Expansion%20Plan.html" class="backlink-item">📄 Suisun Expansion Plan</a></li>
+  </ul>
+</div>

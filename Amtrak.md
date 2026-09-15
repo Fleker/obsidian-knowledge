@@ -35,6 +35,11 @@ This will go [from Raleigh to Richmond](https://x.com/Amtrak/status/181038839729
 ## Empire Corridor
 * [NYSDOT released a service development plan for Amtrak's Empire Service, aiming for faster and more frequent departures, as indicated by a new infographic detailing potential travel times.](https://x.com/ThunderWolf08/status/1992994692816830895)
 
+## Colorado Connector
+
+* [Trashed Panda shared the newly released branding and details for the proposed Colorado Connector (COCO) Amtrak service, which aims to bring modern passenger rail to the state by 2029.](https://x.com/RailroadRaccoon/status/2077181390169293124)
+
+
 ## Misc
 * [Amtrak achieved record-breaking ridership for the second consecutive year, reaching an all-time high of 261.2K views.](https://x.com/ThunderWolf08/status/1990108332837745105)
 * Mardi Gras line that restarted [at double projected ridership](https://x.com/ThunderWolf08/status/1997532553885192608)
@@ -43,3 +48,20 @@ This will go [from Raleigh to Richmond](https://x.com/Amtrak/status/181038839729
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzQxNjYwNzY5LC0yMDMwNDY0NV19
 -->
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">🔗 Linked References (11)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Long%20Island%20Railroad.html" class="backlink-item">📄 Long Island Railroad</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/Now%20searches%20on%20Google%20Flights%20will%20suggest%20Amtrak%20train%20rides,%20too.html" class="backlink-item">📄 Now searches on Google Flights will suggest Amtrak train rides, too</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/MTA%20Rails%20Against%20Amtrak%20for%20Delays%20to%20Metro-North%20Penn%20Station%20Connection.html" class="backlink-item">📄 MTA Rails Against Amtrak for Delays to Metro-North Penn Station Connection</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/Many%20Have%20Tried%20to%20Fix%20Penn%20Station.%20Can%20Trump%20Get%20the%20Job%20Done.html" class="backlink-item">📄 Many Have Tried to Fix Penn Station. Can Trump Get the Job Done</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/Make%20foreign%20aid%20great.html" class="backlink-item">📄 Make foreign aid great</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/Hydrogen%20trains%20could%20revolutionize%20how%20Americans%20get%20around.html" class="backlink-item">📄 Hydrogen trains could revolutionize how Americans get around</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/Hopes%20Fading%20for%20Metro-North%20Service%20at%20New%20Bronx%20Stations%20by%20Next%20Year.html" class="backlink-item">📄 Hopes Fading for Metro-North Service at New Bronx Stations by Next Year</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/Amtrak%20should%20build%20a%20good%20train.html" class="backlink-item">📄 Amtrak should build a good train</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/American%20transit%20agencies%20should%20prioritize%20ridership%20over%20other%20goals.html" class="backlink-item">📄 American transit agencies should prioritize ridership over other goals</a></li>
+    <li class="backlink-item-wrap"><a href="Feedly%20Annotations/A%20Flat%20$40%20Train%20Ticket%20From%20NYC%20to%20Albany%20It%E2%80%99s%20Happening%20Next%20Year..html" class="backlink-item">📄 A Flat $40 Train Ticket From NYC to Albany It’s Happening Next Year.</a></li>
+    <li class="backlink-item-wrap"><a href="./Acela.html" class="backlink-item">📄 Acela</a></li>
+  </ul>
+</div>
